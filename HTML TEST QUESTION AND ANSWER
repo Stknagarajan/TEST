@@ -1,0 +1,110 @@
+Web Design HTML Interview Test Questions
+1. Interpret this statement: <strong>Michelle</strong>
+a.	It makes Michelle strong
+b.	It highlights Michelle as being strong
+c.	It will print out Michelle in bold font
+2. Tables can be nested (table inside of another table).
+a.	True
+b.	False
+3. Which is correct?
+a.	<b>Click Here<b>
+b.	<strong>Click Here<strong>
+c.	<b>Click Here</b>
+d.   </strong>Click Here</strong>
+4. The Browser applies the feature of a tag until it encounters_____tag.
+a.	Quit
+b.	Closing
+c.	Exit
+d.	Anti
+e.	Deactivate
+5. _______are the HTML codes that control the appearance of the document contents
+a.	Tags
+b.	Codas
+c.	Slashes
+d.	Properties
+e.	Code
+6. What are the general syntax for inline image?
+a.	src=img
+b.	src=image
+c.	img=file
+d.	img src=file
+e.	image src=file
+7. An HTML_____takes text in one format and changes it to HTML code.
+a.	Browser
+b.	Editor
+c.	Converter
+d.	Processor
+e.	Parser
+8. To create a link to an anchor, you use the______property in A tag.
+a.	Name
+b.	Tag
+c.	Link
+d.	Href
+9. HTML Tags are case sensitive.
+a.	True
+b.	False
+
+10. You cannot designate an inline image as a hypertext link.
+a.	True
+b.	False
+11. Because each computer differs in terms of what fonts it can display, each individual browser determines how text is to be displayed.
+a.	True
+b.	False
+12. What is HTML stands for?
+a.	Hypertext Mailing List
+b.	Hypertext Mark Language
+c.	Hypertext Markup Language
+13. What is the tag for an inline frame?
+a.	Iframe
+b.	Inframe
+c.	frame
+d.	inlineframe
+14. Within the MAP tag, you use the AREA tag to specify the areas of the image that will act as a hotspot.
+a.	True
+b.	False
+15. There are_____color names recognized by all version of HTML.
+a.	6
+b.	8
+c.	256
+d.	16
+16. Software programs, like your Web browser, use a mathematical approach to define color.
+a.	True
+b.	False
+17. If you want to increase the font size by 2 relative to the surrounding text, you enter +2 in the tag.
+a.	True
+b.	False
+18. H1 is the smallest header tag.
+a.	True
+b.	False
+19. The page title is inside the____tag.
+a.	Body
+b.	Head
+c.	Division
+d.	Table
+20. Who is making the Web standards?
+a.	Mozilla
+b.	Microsoft
+c.	The World Wide Web Consortium
+21. Choose the correct HTML tag for the largest heading
+a.	<h6>
+b.	<heading>
+c.	<head>
+d.	<h1>
+22. What is the difference between XML and HTML?
+a.	HTML is used for exchanging data, XML is not.
+b.	XML is used for exchanging data, HTML is not.
+c.	HTML can have user defined tags, XML cannot
+
+23. What is the correct HTML tag for inserting a line break?
+a.	<br />
+b.	<break />
+c.	<lb />
+
+24. Can a data cell contain images?
+a.	Yes
+b.	No
+
+25. How do I add scrolling text to my page?
+<scroll>
+<marquee>
+<ciruler>
